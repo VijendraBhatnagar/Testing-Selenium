@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="35311" started-at="2020-05-28T19:35:22Z" finished-at="2020-05-28T19:35:57Z">
+  <suite name="Default suite" duration-ms="36581" started-at="2020-05-28T19:49:22Z" finished-at="2020-05-28T19:49:59Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="35311" started-at="2020-05-28T19:35:22Z" finished-at="2020-05-28T19:35:57Z">
+    <test name="Default test" duration-ms="36581" started-at="2020-05-28T19:49:22Z" finished-at="2020-05-28T19:49:59Z">
       <class name="com.hybrid.qa.testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hybrid.qa.testcases.LoginPageTest@5d11346a]" name="setUp" is-config="true" duration-ms="34149" started-at="2020-05-28T19:35:22Z" finished-at="2020-05-28T19:35:56Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hybrid.qa.testcases.LoginPageTest@5d11346a]" name="setUp" is-config="true" duration-ms="35640" started-at="2020-05-28T19:49:22Z" finished-at="2020-05-28T19:49:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validateLoginPageTitleTest()[pri:1, instance:com.hybrid.qa.testcases.LoginPageTest@5d11346a]" name="validateLoginPageTitleTest" duration-ms="120" started-at="2020-05-28T19:35:56Z" finished-at="2020-05-28T19:35:56Z">
+        <test-method status="PASS" signature="validateLoginPageTitleTest()[pri:1, instance:com.hybrid.qa.testcases.LoginPageTest@5d11346a]" name="validateLoginPageTitleTest" duration-ms="59" started-at="2020-05-28T19:49:58Z" finished-at="2020-05-28T19:49:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateLoginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybrid.qa.testcases.LoginPageTest@5d11346a]" name="tearDown" is-config="true" duration-ms="997" started-at="2020-05-28T19:35:56Z" finished-at="2020-05-28T19:35:57Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybrid.qa.testcases.LoginPageTest@5d11346a]" name="tearDown" is-config="true" duration-ms="821" started-at="2020-05-28T19:49:58Z" finished-at="2020-05-28T19:49:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
